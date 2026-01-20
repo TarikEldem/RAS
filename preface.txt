@@ -1,0 +1,2 @@
+-React
+-i didnt heard typescript before. i learned tsx jsx js differences.
